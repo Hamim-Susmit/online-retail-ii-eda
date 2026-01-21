@@ -1,4 +1,4 @@
-# Online Retail II EDA (Project 1)
+# Online Retail II EDA
 
 This project delivers an end-to-end exploratory data analysis of the UCI **Online Retail II** dataset (transaction-level e-commerce data, 2009–2011). The goal is to demonstrate practical data cleaning, defensible revenue definitions, and insight-driven analysis across time, products, customers, geography, and returns.
 
